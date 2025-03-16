@@ -1,0 +1,20 @@
+### **What is SQL Used For?**  
+SQL (**Structured Query Language**) is used to manage and manipulate relational databases. It allows users to **store, retrieve, update, and delete** data efficiently. SQL is also used for creating database structures, defining relationships between tables, and enforcing data integrity.  
+
+### **How SQL Benefits Web Applications**  
+1. **Efficient Data Management** – SQL enables web applications to store and retrieve large amounts of data quickly.  
+2. **Data Integrity & Security** – SQL databases enforce rules like **primary keys** and **foreign keys** to maintain data consistency and relationships.  
+3. **Scalability** – Web applications can handle **thousands to millions** of users by optimizing SQL queries and database indexing.  
+4. **User Authentication** – Many web apps use SQL to manage login credentials and access control.  
+5. **Dynamic Content** – Websites can generate content dynamically using SQL queries, ensuring real-time updates.  
+
+### **Building Blocks of Databases**  
+1. **Tables** – Databases consist of tables, which store structured data in rows and columns.  
+2. **Columns** – Each table has columns defining the **type of data** (e.g., name, age, email).  
+3. **Data Types** – SQL supports different data types like:  
+   - `INT` (integers)  
+   - `VARCHAR` (text strings)  
+   - `DATE` (date values)  
+   - `BOOLEAN` (true/false values)  
+
+By using SQL, developers can build powerful, **data-driven** web applications that are efficient, scalable, and secure. 🚀
